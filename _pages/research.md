@@ -5,12 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
+## Working Papers
+
+[Bias and Information Complexity](/files/bias_and_complexity.pdf)
+
 ## Works in Progress
 ---
 
-Biased Experts and Public Trust
+Discrimination in U.S. Small Business Lending: Evidence from a Correspondence Study (with Esther Bailey, Eric Floyd, Justin Holz, and Sally Sadoff)
 
-The Effect of Social Unrest on Sovereign Bonds (with Grace Gu)
+Evictions and Legal Representation (with Justin Holz and Sally Sadoff)
 
 ## Non-peer Reviewed Publications
 ---
